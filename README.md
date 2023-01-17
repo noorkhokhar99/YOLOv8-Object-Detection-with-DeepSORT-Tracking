@@ -32,7 +32,7 @@ cd yolo/v8/detect
 
 - Do Tracking with mentioned command below
 ```
-#video file
+# video file
 python tracking_vehicle_counting.py model=yolov8l.pt source="test.mp4" show=True
 ```
 
