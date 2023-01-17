@@ -26,13 +26,7 @@ pip install ultralytics==8.0.0
 ```
 cd yolo/v8/detect
 
-```
-- Downloading the DeepSORT Files From The Google Drive 
-```
-
-https://drive.google.com/file/d/1q9CmLEXF4JDrAMwGpfJDMXAAC6LOJ0ne/view?usp=share_link
-```
-- After downloading the DeepSORT Zip file from the drive, unzip it go into the subfolders and place the deep_sort_pytorch folder into the yolo/v8/detect folder
+- Copy deep_sort_pytorch folder and place the deep_sort_pytorch folder into the yolo/v8/detect folder
 
 
 
